@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hello, I'm Ruby :)
 
-<!--
-**ruluby/ruluby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a geek who loves code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me securely
+
+For privacy and security, I prefer encrypted communications.
+
+**GPG Fingerprint:** `3B99 9323 73C5 38A5 735C 82F0 C112 670B B217 4D51`
+
+<details>
+<summary>🔑 Click to view my PGP Public Key</summary>
+
+```text
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBGlK/VMBEACxmAtIzP1uhnz4k6ZiRQtC8aGB1kkCXinZLskxJ9kyGQ1yYa4n
+HL9w2RzGoyP/XGyNFYJVIQHzejvTFwy1WJm83TMD+2V528tGkf0S3tvmdueo3q0F
+yK5VOA0JqObNYN3aVC6BO6a2MM2GjBX2PaSr65sznqRT1+rSHlUpIt/bJRlnJCDD
+Z9GWhL6sylG5wiE3rCwS7p5bb9QiyZBfP5Q+4/8uoquJ0jeO5+U+6btaNg2LYFoC
+zSv3yN+dOfu+hUJ71BYFTcWBi4Jtb/YHlTqEIBX2Sj22nYrvJmWRbAk2QnaOVG3J
+5DLAd3LcWVhiQNHoen3/V+/XBAcNQrjkVZWBwbagP2EBTnSB7yf2MUFlx0l/Qsjb
+SbS+x5B8Vl01ggCvswvsP891Ad8F157lH1vAHFuiVEgXww9ClN4B5zSu7f1f9M/f
+s0/EGOhXQRrb0Qgb3gQarlU0UOYBWucVC7Mq3nsl3Z371K/4ArXt2Jb2iOEoptz8
+NwzC/SwI+nLMTuOKWDYhBCs8mWtdyFRJIoaaifFCH+egR0h3dCtvO7vr791dYtrE
+4fSm3LQ2bwC1/jE1JVpCtELt9aFRUP5ElqzHdH0g6bvpD9KeG9nvS/HXcjMt7tzN
+3w8GkTBb6Ec+BKqEC/1QJ4m6QqTw9CFhln/+JbjgcNRCXpOMf4lrducLFQARAQAB
+tDJydWx1YnkgPDI1MDI1MzU3OStydWx1YnlAdXNlcnMubm9yZXBseS5naXRodWIu
+Y29tPokCUQQTAQgAOxYhBDuZkyNzxTilc1yC8MESZwuyF01RBQJpSv1TAhsDBQsJ
+CAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEMESZwuyF01RjMYP/RSZpW5cF9X4
+HLbU8407JymzuxDyD2ZJVB4FA9f3KcuclIfAo42XeWuoK3qq6+bseMAubcRbgAlb
+ahyhz8w5QoR0QVE6rRq2sZcTwwV4To/aly7BPHenfFY5ecnDue4vskDNFMXRXbQP
+RdJ0IQMXyCOvCE1YS+GM+bkZOJrz1D2plFcbj6cH6PIL9iNG30pxPk/E4wCyGZys
+X+mD+lKSQQMunPeeU7W72bZ+5Te0ix3jNMkqyTe304uM7HIu5pS/asym/emBPidI
+STRf3F/jQGrWsNVh6EdAoEB4HCmVzlV4VAOQYSSqbyiE5DcJelr2mzg9LTIp9FfT
+JQ0Yr9PmkPGqts8wctBUdubYs0TGJW6jZYc0Ki8IuKpTrU2fDKJFFp89+7gfysyC
+w1sAxoP78QoLKDd+cPT/vaBPbJE+GbYMXRVqwb983WJuMeYwmZkRPuyB/elab00y
+fDGLeOOTApYZETlacwrJ3cEc80qW+D2b4EVMrVva3Pwhuawa7y7kvwGXAwSmrp4Z
+SeNGhoN/Ge6FPZCD1Xt7OjtENzCFvgZ/5EiraDY+TFSO5P5sGi6UGXNj5FpTPb/S
+xcCvM6HMqGItfO967t53cucvbANFtNJHOljKVCA63ig11X1Z7doMlIWuyTtz1Tru
+RBVe2kkFyvKghBhQg1BchLlKQq7mHxdluQINBGlK/VMBEADWFih99sZu/NpCL49A
+eN6cOrM5Y6jDBQcjYH6PtrNKgEOfAjsnzqsGJ0g2rE5S9W97cKhtrFgseDD1KTjk
+vJU59XCG7Y1T1z1hfr5TMy2Tw6MliFRraIZ5gRNO+TE+/O5AH17sBJKriaMirmPt
++vAO1ccY5F/Rauo3c8deOBtr3E52UwGfkUgmR6HLpjh2/bCsZa0JFSeu23hR2Rzr
+oPqxqMWBwlH2bemSbm1VbfUb3TTyRTb6EVeG3wZfytKzU4WaCn50ff4Q+naRjbAc
+I3gGc62CCel8CJJwfQxM1ZOHOkqrNipSkkKH/pAww1WhhomLkqGlaaUxE9gpCz5R
+lfcgehix2ofkVrzzg3h0rIwP3ncKj0gTV4FQzAD4i8zMWBwlJ/zmuMJT7cyR6qKI
+ekA7stRw27ho7UoX2CmUNs9tQ/JCrzSQ7aN4axmyfVfPl+Gi/6ACn1LkmVY5ZqOI
+15MozaoK802+sAV9W0Gf6yQiuGQYpGb1q8zF/Gf8+LJtlRHu4k1fQFYHy20NNaz+
+f2FzjC1J6kjL2OBCuwwHQu52ToxkTlC+taFxO3SSJbOSbOn+5qXzalVPBUBmCreV
+qHVeh0rUSDRS0L1dq6FckE4FgYjmQKnX18ytpp9V03CA/vGU+qdMTNFlNR5nktx1
+b2WwyQeDpaXkrGBuz06c6Tn9hQARAQABiQI2BBgBCAAgFiEEO5mTI3PFOKVzXILw
+wRJnC7IXTVEFAmlK/VMCGwwACgkQwRJnC7IXTVE26Q//S3jYeHvms2kq4Y1+39w2
+L9ngbLGVc7GJbVdn+5/NlwRrPdQmRCVS0J4RFqo8HeoNbn20j1YRZMu28oMO8Psf
+YWtC86HOZBf0Vry1XacfMTbZRZggMfRXE5BfcXVPwK3r/dP8TITv++G9RVmbKm8d
+76OWfYkJ56pFlAGyUyay2jUy/3DxCOnQpjHIbBp8VM7LvyWHkc9db1zvDS50A03u
+KBaegePQRb2zRrPcm3iKrgoQiWsCoyQKXpxZ66JfketyPKM/Hnq29ksaRpva2Kb+
+gW2oEdBp5ERzxSoEFeecermek50L3+0glkkdMVE1iVb/Kww9B3oZt9FCS1MPV2DP
+yEsjoMMPZB/I+FAyNcZ+IeTnZTOgcEs37GMseKWsCjylpjpU0PFWjo1VcZB/YKA/
+nEZQnhdy5yJ4qOvLvaizme6DNFsLjsKCoZyE0cEkIsLyzgzbi9XB98Cq6RLiCu65
+MU68KDJ5QDayZj1Xw8nbc+BlwQ8f4Sr1Sb777a895rquJjvzEgbRphzyZTBAeZ1X
+5q03DPJIohRCxjdCCwiOyI4q/KpTxzBK5LDdyAoJI9/LAfCOWlZckujUwmgLZ/Qd
+FvxL5ywQ9MIO62/bHlOaLghu2Deaw4rKB5BfIY0MlnN0+BTBSdS3lInB/XZ6U/lS
+d7Mv60HsWqlbwITDMd8G11Y=
+=0yRM
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</details>
+
+---
+
+### Support
+
+**XMR:** `83vhYZwPKsN4z6jKsQeya4azSxsSMSpENKMSZYWHwHoVDBr9f5KB6MviHnRkuAfjyXZTMFutAWH8HUCqsKKLvg1n1MpZkGx`  
+**BTC:** `bc1q3ccxstdldedpkxzfucaqax9jty600n36wd6qa4`  
+**SOL:** `7z8SwTTWQ28trVudFkdhSqvUjR8KvcZoRAoekfWfKMFQ`  
+**ETH:** `0xE37f794d6C476587535e5cB5f1Cc48771849D2b6`  
+**ZEC:** `t1QV8mXgEhdkCxdtN2n5DxfSamSdZ6x59JB`
